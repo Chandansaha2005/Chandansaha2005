@@ -29,11 +29,12 @@
 
 ---
 
-### 🔧 Projects in Progress
-- *LifeLink* – A futuristic health support system  
-- *Morse Gloves* – Helping the visually impaired learn via vibration  
-- *DSA Practice Hub* – Personal notes and solutions (coming soon)
-
+### 🌱 Vision Board
+- Build tools that make life easier
+- Merge logic with emotions through code & design
+- Bring innovation to health, accessibility & learning
+- Inspire others to start small but dream big
+  
 ---
 
 ### 📈 GitHub Stats
@@ -48,7 +49,7 @@
 ### ✨ Outside Code
 - Capturing emotions with my camera — from festivals to the everyday  
 - I speak through visuals & silence — that’s the CKS lens  
-- Stay tuned for *@cks.creates* on Instagram
+- Stay tuned for *[@visionbycks](https://www.instagram.com/visionbycks/)* on Instagram
 
 ---
 
@@ -59,4 +60,10 @@
 
 ---
 
-> "Code with your mind. Create with your soul." — CKS
+
+### 🎨 Creative Side
+```text
+Between lines of code, I see stories.
+Between shadows and lights, I find frames.
+Between logic and rhythm, I build — me.
+— CKS
