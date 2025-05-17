@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/Chandansaha2005/Chandansaha2005/blob/main/Banner.png" alt="CKS Banner" width="100%" />
-</p>
+![Banner](https://github.com/Chandansaha2005/Chandansaha2005/blob/main/banner.gif?raw=true)
 
 <h1 align="center">
   👋 Hi there, I'm <span style="color:#F72585;">Chandan Saha</span>  
