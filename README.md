@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://github.com/Chandansaha2005/Chandansaha2005/blob/main/Banner.png" alt="CKS Banner" width="100%" />
+</p>
+
 <h1 align="center">
-  👋Hi there, I'm <span style="color:#F72585;">Chandan Saha</span>  
+  👋 Hi there, I'm <span style="color:#F72585;">Chandan Saha</span>  
 </h1>
 
 <h3 align="center">
@@ -7,19 +11,31 @@
 </h3>
 
 <p align="center">
-  <img src="https://github.com/Chandansaha2005/Chandansaha2005/blob/main/Banner.gif" alt="CKS Banner" width="100%" />
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="200"/>
 </p>
----
-
-
-### 🚀 About Me
-- 🎓 First-year B.Tech CSE student @ MCKV Institute of Engineering  
-- 💡 Building ideas that blend tech with purpose   
-- 🏆 2nd Prize – Code Fiesta (C Programming)  
-- 👨‍🏫 Teaching my lil sis to code using Scratch  
-- 🧠 DSA + Python + Web Dev = My current zone
 
 ---
+
+### ✨ About Me
+- 🎓 1st Year CSE Student @ MCKV Institute of Engineering  
+- 💡 Developer, Visionary & Artist  
+- 🏆 Code Fiesta 2nd Prize – C Programming  
+- 🎯 Focused on impactful tech — blending logic & creativity  
+- 📸 Passionate about Photography, Poetry & Real-life Stories
+
+---
+
+### 🚀 Tech Skill Meter
+
+| Skill          | Level |
+|----------------|-------|
+| *C*          | ![C](https://progress-bar.dev/85/?title=&color=00599C) 85% |
+| *C++*        | ![C++](https://progress-bar.dev/75/?title=&color=004482) 75% |
+| *Python*     | ![Python](https://progress-bar.dev/80/?title=&color=FFD43B) 80% |
+| *DSA*        | ![DSA](https://progress-bar.dev/60/?title=&color=8E44AD) 60% |
+
+---
+
 
 ### 💻 Languages & Tools
 <p>
@@ -27,7 +43,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 </p>
 
 ---
