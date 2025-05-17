@@ -23,18 +23,6 @@
 
 ---
 
-### 🚀 Tech Skill Meter
-
-| Skill          | Level |
-|----------------|-------|
-| *C*          | ![C](https://progress-bar.dev/85/?title=&color=00599C) 85% |
-| *C++*        | ![C++](https://progress-bar.dev/75/?title=&color=004482) 75% |
-| *Python*     | ![Python](https://progress-bar.dev/80/?title=&color=FFD43B) 80% |
-| *DSA*        | ![DSA](https://progress-bar.dev/60/?title=&color=8E44AD) 60% |
-
----
-
-
 ### 💻 Languages & Tools
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
