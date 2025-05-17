@@ -1,11 +1,14 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=F72585&center=true&vCenter=true&width=435&lines=Hi+I'm+Chandan+Saha;aka+CKS+%F0%9F%92%BB;Coder+with+vision+%7C+Artist+with+logic;Welcome+to+my+creative+zone!" />
+  👋Hi there, I'm <span style="color:#F72585;">Chandan Saha</span>  
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="200"/>
-</p>
+<h3 align="center">
+  Coding my thoughts, crafting experiences.
+</h3>
 
+<p align="center">
+  <img src="https://github.com/Chandansaha2005/Chandansaha2005/blob/main/Banner.gif" alt="CKS Banner" width="100%" />
+</p>
 ---
 
 
