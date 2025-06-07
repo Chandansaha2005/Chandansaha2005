@@ -46,18 +46,6 @@
 ---
 
 
-#### ⚙️ Learning Curve
-
-![C](https://img.shields.io/badge/C-90%25-blue?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-85%25-blue?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-60%25-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-50%25-orange?style=for-the-badge&logo=html5&logoColor=white)
-![JS & CSS](https://img.shields.io/badge/JS%20%26%20CSS-40%25-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-70%25-red?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-50%25-blue?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
 <h3 align="center">📈 GitHub Stats</h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Chandansaha2005&show_icons=true&theme=tokyonight" /> <br><br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandansaha2005&theme=tokyonight" /> <br><br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandansaha2005&layout=compact&theme=tokyonight" /> </p>
 
