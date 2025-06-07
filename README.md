@@ -67,6 +67,8 @@ CSS        ███░░░░░░░░░░░░░ 25%
 - Stay tuned for *[@visionbycks](https://www.instagram.com/visionbycks/)* on Instagram
 
 ---
+
+
 <h3 align="center">📫 Let’s Connect</h3>
 
 <p align="center">
@@ -82,6 +84,8 @@ CSS        ███░░░░░░░░░░░░░ 25%
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60" alt="LinkedIn" />
   </a>
 </p>
+
+
 ---
 
 
