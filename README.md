@@ -74,12 +74,12 @@ CSS        ███░░░░░░░░░░░░░ 25%
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="60" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/chandan-saha-228560327/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
   <a href="mailto:chandansaha1945@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="60" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/chandan-saha-228560327/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60" alt="LinkedIn" />
   </a>
 </p>
 ---
