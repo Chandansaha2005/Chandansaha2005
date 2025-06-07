@@ -67,12 +67,19 @@ CSS        ███░░░░░░░░░░░░░ 25%
 - Stay tuned for *[@visionbycks](https://www.instagram.com/visionbycks/)* on Instagram
 
 ---
+<h3 align="center">📫 Let’s Connect</h3>
 
-### 📫 Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/chandan-saha-228560327/)  
-- [Instagram](https://www.instagram.com/c_h_a_n_d_a_n_0_1/)  
-- [Email](chandansaha1945@gmail.com)
-
+<p align="center">
+  <a href="https://www.instagram.com/c_h_a_n_d_a_n_0_1/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/chandan-saha-228560327/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:chandansaha1945@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 ---
 
 
