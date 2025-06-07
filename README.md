@@ -47,31 +47,14 @@
 
 
 #### ⚙️ Learning Curve
-![Learning Curve Gradient](https://quickchart.io/chart?c={
-  type:'doughnut',
-  data:{
-    labels:['C','Python','C++','HTML','JS & CSS','Java','MySQL'],
-    datasets:[{
-      data:[90,85,60,50,40,70,50],
-      backgroundColor:[
-        'rgba(255,99,132,0.7)',
-        'rgba(54,162,235,0.7)',
-        'rgba(255,206,86,0.7)',
-        'rgba(75,192,192,0.7)',
-        'rgba(153,102,255,0.7)',
-        'rgba(255,159,64,0.7)',
-        'rgba(199,199,199,0.7)'
-      ]
-    }]
-  },
-  options:{
-    plugins:{
-      legend:{
-        labels:{color:'black'}
-      }
-    }
-  }
-})
+
+![C](https://img.shields.io/badge/C-90%25-blue?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-85%25-blue?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-60%25-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-50%25-orange?style=for-the-badge&logo=html5&logoColor=white)
+![JS & CSS](https://img.shields.io/badge/JS%20%26%20CSS-40%25-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-70%25-red?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-50%25-blue?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
