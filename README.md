@@ -47,8 +47,31 @@
 
 
 #### ⚙️ Learning Curve
-![Learning Curve](https://quickchart.io/chart?c={type:'doughnut',data:{labels:['C','Python','C++','HTML','JS & CSS','Java','MySQL'],datasets:[{data:[90,85,60,50,40,70,50]}]},options:{plugins:{legend:{labels:{color:'white'}}}}})
-
+![Learning Curve Gradient](https://quickchart.io/chart?c={
+  type:'doughnut',
+  data:{
+    labels:['C','Python','C++','HTML','JS & CSS','Java','MySQL'],
+    datasets:[{
+      data:[90,85,60,50,40,70,50],
+      backgroundColor:[
+        'rgba(255,99,132,0.7)',
+        'rgba(54,162,235,0.7)',
+        'rgba(255,206,86,0.7)',
+        'rgba(75,192,192,0.7)',
+        'rgba(153,102,255,0.7)',
+        'rgba(255,159,64,0.7)',
+        'rgba(199,199,199,0.7)'
+      ]
+    }]
+  },
+  options:{
+    plugins:{
+      legend:{
+        labels:{color:'black'}
+      }
+    }
+  }
+})
 
 ---
 
