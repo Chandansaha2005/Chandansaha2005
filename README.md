@@ -69,15 +69,15 @@ CSS        ███░░░░░░░░░░░░░ 25%
 ---
 <h3 align="center">📫 Let’s Connect</h3>
 
-<p align="center">
+<p>
   <a href="https://www.instagram.com/c_h_a_n_d_a_n_0_1/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@c_h_a_n_d_a_n_0_1-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/chandan-saha-228560327/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Chandan%20Saha-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:chandansaha1945@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-chandansaha1945@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 ---
