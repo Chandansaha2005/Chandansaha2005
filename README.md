@@ -39,21 +39,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="100" />
 </p>
 
 
 ---
 
+
 #### ⚙️ Learning Curve
-```text
-C          ██████████░░░░░░ 80%
-C++        ████████░░░░░░░░ 60%
-Java       ███████░░░░░░░░░ 50%
-Python     ████████░░░░░░░░ 60%
-HTML       ██████████░░░░░░ 75%
-JavaScript ████░░░░░░░░░░░░ 30%
-CSS        ███░░░░░░░░░░░░░ 25%
-```
+![Learning Curve](https://quickchart.io/chart?c={type:'doughnut',data:{labels:['C','Python','C++','HTML','JS & CSS','Java','MySQL'],datasets:[{data:[90,85,60,50,40,70,50]}]},options:{plugins:{legend:{labels:{color:'white'}}}}})
+
+
 ---
 
 <h3 align="center">📈 GitHub Stats</h3>
