@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=500&color=00FF99&center=true&vCenter=true&width=550&lines=Hey+there+👋;I'm+Chandan+Saha+(CKS);Code+Artist+%7C+Visionary+%7C+Creator;Welcome+to+my+digital+space" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=1200&size=28&duration=2000&pause=500&color=F72585&center=true&vCenter=true&width=500&lines=Hey+there+👋;I'm+Chandan+Saha;Coder+%7C+Photographer+%7C+Designer" />
 </h1>
 
 <p align="center">
@@ -8,20 +8,20 @@
 
 ---
 
-## 🪐 About Me  
-- 🎓 1st Year CSE Student @ MCKV Institute of Engineering  
-- 🏆 Code Fiesta 2nd Prize – C Programming  
-- 🎨 Developer, Visionary & Artist  
-- 💡 Passionate about impactful tech — blending *logic + creativity*  
-- 📸 Photography, Poetry & Storytelling enthusiast  
+## 🌟 About Me  
+💻 *1st Year CSE Student @ MCKV Institute of Engineering*  
+🏆 *Code Fiesta 2nd Prize — C Programming*  
+🎨 Developer, Visionary & Artist — Blending *logic* with *creativity*  
+📸 Passionate about *Photography, Poetry & Untold Stories*  
+💡 Obsessed with *building impactful tech for real-life problems*
 
 ---
 
-## 🚀 Vision Board  
-- Build tech for *real-life human problems*  
-- Design with *empathy and purpose*  
-- Make *health & learning* more accessible  
-- Tell stories through *software + lens*  
+## 🎯 Vision Board  
+- 🚀 Build tech with *empathy* at its core  
+- 🩺 Make *health & learning* more accessible  
+- 📷 Capture the *soul of moments* through my lens  
+- 📚 Teach & inspire through *code + creativity*  
 
 ---
 
@@ -40,23 +40,21 @@
 
 ---
 
-<h3 align="center">💻 GitHub Matrix</h3>
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandansaha2005&show_icons=true&theme=matrix&title_color=00FF99&icon_color=00FF99&text_color=00FF99&bg_color=000000" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandansaha2005&theme=matrix&ring=00FF99&fire=00FF99&currStreakLabel=00FF99&sideNums=00FF99&currStreakNum=00FF99&sideLabels=00FF99&dates=00FF99" height="165" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chandansaha2005&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandansaha2005&theme=radical" height="165" />
+</p>  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandansaha2005&layout=compact&theme=matrix&title_color=00FF99&text_color=00FF99&bg_color=000000" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandansaha2005&layout=compact&theme=radical" height="150" />
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF99&height=80&section=header" />
-
-## 🎨 Outside Code  
-- 🎭 Capturing emotions — from *festivals* to *quiet streets*  
-- 📷 My visual diary → [@visionbycks](https://www.instagram.com/visionbycks/)  
-- 🖋 Between lines of *code* & *poetry, I build — *me  
+## ✨ Outside Code  
+🎭 Capturing emotions — from *festivals* to *quiet streets*  
+📷 My visual diary → [@visionbycks](https://www.instagram.com/visionbycks/)  
+🖋 Between lines of *code* & *poetry, I build — *me
 
 ---
 
@@ -79,6 +77,7 @@
   </a>
 </p>
 
+
 ---
 
 > *“Between shadows and light, I find frames.  
@@ -86,5 +85,5 @@ Between logic and rhythm, I find myself.”* — *CKS*
 
 ---
 <p align="center">
-  <em>✨ README handcrafted with ❤ by <strong>Chandan Saha</strong> ✨</em>
+  <em>✨ This README File Is Uniquely Crafted By <strong>Chandan Saha</strong> ✨</em>
 </p>
