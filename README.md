@@ -9,7 +9,7 @@
 ---
 
 ## 🌟 About Me  
-💻 *1st Year CSE Student @ MCKV Institute of Engineering*  
+💻 *2nd Year CSE Student @ MCKV Institute of Engineering*  
 🏆 *Code Fiesta 2nd Prize — C Programming*  
 🎨 Developer, Visionary & Artist — Blending *logic* with *creativity*  
 📸 Passionate about *Photography, Poetry & Untold Stories*  
