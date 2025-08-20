@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=1200&size=28&duration=2000&pause=500&color=F72585&center=true&vCenter=true&width=500&lines=Hey+there+👋;I'm+Chandan+Saha;Coder+%7C+Photographer+%7C+Designer" />
 </h1>
-
+ 
 <p align="center">
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="200"/>
 </p>
