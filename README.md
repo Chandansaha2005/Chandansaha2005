@@ -86,6 +86,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Chandansaha2005&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" width="95%" />
 </p>
 
+<p align="center">
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="150" />
+  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="150" />
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="150" />
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="150" />
+</p>
+
 ---
 
 <h2 align="center">
