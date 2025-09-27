@@ -52,17 +52,27 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chandansaha2005&show_icons=true&theme=tokyonight" height="140" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandansaha2005&theme=tokyonight" height="140" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandansaha2005&layout=compact&theme=tokyonight" height="140" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandansaha2005&theme=tokyo-night&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandansaha2005&theme=tokyo-night&hide_border=true" width="95%" />
 </p>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chandansaha2005&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Chandansaha2005&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="150" />
+  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="150" />
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="150" />
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="150" />
 </p>
 
 ---
