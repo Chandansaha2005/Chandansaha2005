@@ -61,6 +61,9 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandansaha2005&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chandansaha2005&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" />
+</p>
 
 ---
 
