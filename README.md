@@ -1,4 +1,7 @@
 <h1 align="center">
+  <p align="center">
+  <img src="https://i.postimg.cc/43mYvYLF/chandan-header.jpg" width="100%" alt="Chandan Saha Header"/>
+</p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=800&size=36&duration=2200&pause=600&color=3B82F6&center=true&vCenter=true&width=850&lines=Hey+there+👋;I'm+Chandan+Saha;Coder+%7C+Photographer+%7C+Designer" />
 </h1>
 
