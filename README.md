@@ -2,7 +2,7 @@
    <p align="center">
   <img src="assets/1759043036683.jpg" width="100%" alt="Chandan Saha Header" style="border-radius: 15px; box-shadow: inset 0 -50px 100px rgba(0, 0, 0, 0.4);"/>
 </p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=800&size=36&duration=2200&pause=600&color=D4A574&center=true&vCenter=true&width=850&lines=Hey+there+👋;I'm+Chandan+Saha;Coder+%7C+Photographer+%7C+Designer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=800&size=36&duration=1200&pause=400&color=D4A574&center=true&vCenter=true&width=850&lines=01001000+01100101+01111001;H3y+th3r3+👋;Hey+there+👋;I'm+Ch4nd4n+S4h4;I'm+Chandan+Saha;C0d3r+%7C+Ph0t0gr4ph3r;Coder+%7C+Photographer+%7C+Designer;%3CERROR%3E+LOADING...;System+Online+✅" />
 </h1>
 
 <table style="border: none; border-collapse: collapse;">
@@ -76,7 +76,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" title="Tailwind CSS" />
+        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" width="50" title="Tailwind css" />
       </p>
     </td>
     <td width="50%" valign="top" style="border: none;">
@@ -87,7 +87,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" title="Flask" />
+        <img src="https://svg.saasfly.io/library/flask-dark.svg" width="40" title="Flask" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="40" title="NetBeans" />
@@ -148,19 +148,19 @@
 </h3>
 <p align="center">
   <a href="https://www.instagram.com/c_h_a_n_d_a_n_0_1/" target="_blank">
-    <img src="assets/instagram_2504918.png" width="100" alt="Instagram" />
+    <img src="assets/instagram_2504918.png" width="80" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:chandansaha1945@gmail.com">
-    <img src="assets/15047426.png" width="100" alt="Gmail" />
+    <img src="assets/15047426.png" width="80" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/chandan-saha-228560327/" target="_blank">
-    <img src="assets/linkedin_2504923.png" width="100" alt="LinkedIn" />
+    <img src="assets/linkedin_2504923.png" width="80" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/chandansahaaaa?s=09" target="_blank">
-    <img src="assets/2504947.png" width="100" alt="X" />
+    <img src="assets/2504947.png" width="80" alt="X" />
   </a>
 </p>
 
