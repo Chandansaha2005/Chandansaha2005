@@ -76,9 +76,9 @@
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandansaha2005&show_icons=true&theme=tokyonight" height="130" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandansaha2005&theme=tokyonight" height="130" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandansaha2005&layout=compact&theme=tokyonight" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chandansaha2005&show_icons=true&theme=tokyonight" height="120" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandansaha2005&theme=tokyonight" height="120" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandansaha2005&layout=compact&theme=tokyonight" height="120" />
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chandansaha2005&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Chandansaha2005&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" width="100%" />
 </p>
 
 <p align="center">
