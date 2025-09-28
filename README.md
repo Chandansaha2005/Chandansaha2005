@@ -1,8 +1,8 @@
 <h1 align="center">
    <p align="center">
-  <img src="1759043516815.jpg" width="100%" alt="Chandan Saha Header" style="border-radius: 15px; box-shadow: inset 0 -50px 100px rgba(0, 0, 0, 0.4);"/>
+  <img src="1759043036683.jpg" width="100%" alt="Chandan Saha Header" style="border-radius: 15px; box-shadow: inset 0 -50px 100px rgba(0, 0, 0, 0.4);"/>
 </p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=800&size=36&duration=2200&pause=600&color=3B82F6&center=true&vCenter=true&width=850&lines=Hey+there+👋;I'm+Chandan+Saha;Coder+%7C+Photographer+%7C+Designer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=800&size=36&duration=2200&pause=600&color=D4A574&center=true&vCenter=true&width=850&lines=Hey+there+👋;I'm+Chandan+Saha;Coder+%7C+Photographer+%7C+Designer" />
 </h1>
 
 <p align="center">
@@ -12,34 +12,55 @@
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=700&size=28&duration=1&pause=1000000&color=3B82F6&center=true&vCenter=true&width=400&lines=🌟+About+Me" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=700&size=28&duration=1&pause=1000000&color=D4A574&center=true&vCenter=true&width=400&lines=🌟+About+Me" />
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=500&size=20&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=850&lines=💻+2nd+Year+CSE+Student+@+MCKV+Institute+of+Engineering" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=500&size=20&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=650&lines=🏆+Code+Fiesta+2nd+Prize+—+C+Programming" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=500&size=20&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=850&lines=🎨+Developer%2C+Visionary+%26+Artist+—+Blending+logic+with+creativity" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=500&size=20&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=850&lines=📸+Passionate+about+Photography%2C+Poetry+%26+Untold+Stories" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=500&size=20&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=900&lines=💡+Obsessed+with+building+impactful+tech+for+real-life+problems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=500&size=20&duration=1&pause=1000000&color=E8D5B7&center=true&vCenter=true&width=850&lines=💻+2nd+Year+CSE+Student+@+MCKV+Institute+of+Engineering" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=500&size=20&duration=1&pause=1000000&color=E8D5B7&center=true&vCenter=true&width=650&lines=🏆+Code+Fiesta+2nd+Prize+—+C+Programming" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=500&size=20&duration=1&pause=1000000&color=E8D5B7&center=true&vCenter=true&width=850&lines=🎨+Developer%2C+Visionary+%26+Artist+—+Blending+logic+with+creativity" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=500&size=20&duration=1&pause=1000000&color=E8D5B7&center=true&vCenter=true&width=850&lines=📸+Passionate+about+Photography%2C+Poetry+%26+Untold+Stories" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=500&size=20&duration=1&pause=1000000&color=E8D5B7&center=true&vCenter=true&width=900&lines=💡+Obsessed+with+building+impactful+tech+for+real-life+problems" />
 </p>
 
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=700&size=28&duration=1&pause=1000000&color=3B82F6&center=true&vCenter=true&width=450&lines=🎯+Vision+Board" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=700&size=28&duration=1&pause=1000000&color=D4A574&center=true&vCenter=true&width=450&lines=🎯+Vision+Board" />
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=500&size=20&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=750&lines=🚀+Build+tech+with+empathy+at+its+core" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=500&size=20&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=800&lines=🩺+Make+health+%26+learning+more+accessible" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=500&size=20&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=850&lines=📷+Capture+the+soul+of+moments+through+my+lens" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=500&size=20&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=800&lines=📚+Teach+%26+inspire+through+code+%2B+creativity" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=500&size=20&duration=1&pause=1000000&color=E8D5B7&center=true&vCenter=true&width=750&lines=🚀+Build+tech+with+empathy+at+its+core" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=500&size=20&duration=1&pause=1000000&color=E8D5B7&center=true&vCenter=true&width=800&lines=🩺+Make+health+%26+learning+more+accessible" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=500&size=20&duration=1&pause=1000000&color=E8D5B7&center=true&vCenter=true&width=850&lines=📷+Capture+the+soul+of+moments+through+my+lens" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=500&size=20&duration=1&pause=1000000&color=E8D5B7&center=true&vCenter=true&width=800&lines=📚+Teach+%26+inspire+through+code+%2B+creativity" />
 </p>
 
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=700&size=28&duration=1&pause=1000000&color=3B82F6&center=true&vCenter=true&width=550&lines=💻+Programming+Languages" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=700&size=28&duration=1&pause=1000000&color=D4A574&center=true&vCenter=true&width=550&lines=💻+Programming+Languages" />
 </h3>
 
 <p align="center">
@@ -56,7 +77,7 @@
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=700&size=28&duration=1&pause=1000000&color=3B82F6&center=true&vCenter=true&width=500&lines=🛠️+Tools+%26+Platforms" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=700&size=28&duration=1&pause=1000000&color=D4A574&center=true&vCenter=true&width=500&lines=🛠️+Tools+%26+Platforms" />
 </h3>
 
 <p align="center">
@@ -72,21 +93,21 @@
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=700&size=28&duration=1&pause=1000000&color=3B82F6&center=true&vCenter=true&width=450&lines=📊+GitHub+Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=700&size=28&duration=1&pause=1000000&color=D4A574&center=true&vCenter=true&width=450&lines=📊+GitHub+Stats" />
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandansaha2005&show_icons=true&theme=tokyonight" height="120" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandansaha2005&theme=tokyonight" height="120" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandansaha2005&layout=compact&theme=tokyonight" height="120" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chandansaha2005&show_icons=true&theme=moltack" height="120" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandansaha2005&theme=moltack" height="120" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandansaha2005&layout=compact&theme=moltack" height="120" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandansaha2005&theme=tokyo-night&hide_border=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandansaha2005&theme=xcode&hide_border=true" width="90%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chandansaha2005&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Chandansaha2005&theme=onedark&no-frame=true&row=1&column=6&margin-w=10" width="100%" />
 </p>
 
 <p align="center">
@@ -99,19 +120,25 @@
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=700&size=28&duration=1&pause=1000000&color=3B82F6&center=true&vCenter=true&width=450&lines=✨+Outside+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=700&size=28&duration=1&pause=1000000&color=D4A574&center=true&vCenter=true&width=450&lines=✨+Outside+Code" />
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=500&size=20&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=850&lines=🎭+Capturing+emotions+—+from+festivals+to+quiet+streets" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=500&size=20&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=600&lines=📷+My+visual+diary+→+@visionbycks" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=500&size=20&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=800&lines=🖋+Between+lines+of+code+%26+poetry%2C+I+build+—+me" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=500&size=20&duration=1&pause=1000000&color=E8D5B7&center=true&vCenter=true&width=850&lines=🎭+Capturing+emotions+—+from+festivals+to+quiet+streets" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=500&size=20&duration=1&pause=1000000&color=E8D5B7&center=true&vCenter=true&width=600&lines=📷+My+visual+diary+→+@visionbycks" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=500&size=20&duration=1&pause=1000000&color=E8D5B7&center=true&vCenter=true&width=800&lines=🖋+Between+lines+of+code+%26+poetry%2C+I+build+—+me" />
 </p>
 
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=700&size=26&duration=1&pause=1000000&color=3B82F6&center=true&vCenter=true&width=400&lines=🌐+Let's+Connect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=700&size=26&duration=1&pause=1000000&color=D4A574&center=true&vCenter=true&width=400&lines=🌐+Let's+Connect" />
 </h3>
 <p align="center">
   <a href="https://www.instagram.com/c_h_a_n_d_a_n_0_1/" target="_blank">
@@ -134,12 +161,15 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=600&size=20&duration=1&pause=1000000&color=3B82F6&center=true&vCenter=true&width=900&lines=Between+shadows+and+light%2C+I+find+frames." />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=600&size=20&duration=1&pause=1000000&color=3B82F6&center=true&vCenter=true&width=900&lines=Between+logic+and+rhythm%2C+I+find+myself.+—+CKS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=600&size=20&duration=1&pause=1000000&color=D4A574&center=true&vCenter=true&width=900&lines=Between+shadows+and+light%2C+I+find+frames." />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=600&size=20&duration=1&pause=1000000&color=D4A574&center=true&vCenter=true&width=900&lines=Between+logic+and+rhythm%2C+I+find+myself.+—+CKS" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=600&size=18&duration=1&pause=1000000&color=3B82F6&center=true&vCenter=true&width=800&lines=✨+This+README+File+Is+Uniquely+Crafted+By+Chandan+Saha+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=600&size=18&duration=1&pause=1000000&color=D4A574&center=true&vCenter=true&width=800&lines=✨+This+README+File+Is+Uniquely+Crafted+By+Chandan+Saha+✨" />
 </p>
