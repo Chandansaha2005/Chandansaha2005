@@ -9,7 +9,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=700&size=34&duration=1&pause=1000000&color=3B82F6&center=true&vCenter=true&width=400&lines=🌟+About+Me" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=700&size=28&duration=1&pause=1000000&color=3B82F6&center=true&vCenter=true&width=400&lines=🌟+About+Me" />
 </h2>
 
 <p align="center">
@@ -23,7 +23,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=700&size=34&duration=1&pause=1000000&color=3B82F6&center=true&vCenter=true&width=450&lines=🎯+Vision+Board" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=700&size=28&duration=1&pause=1000000&color=3B82F6&center=true&vCenter=true&width=450&lines=🎯+Vision+Board" />
 </h2>
 
 <p align="center">
@@ -69,7 +69,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=700&size=34&duration=1&pause=1000000&color=3B82F6&center=true&vCenter=true&width=450&lines=📊+GitHub+Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=700&size=28&duration=1&pause=1000000&color=3B82F6&center=true&vCenter=true&width=450&lines=📊+GitHub+Stats" />
 </h2>
 
 <p align="center">
@@ -96,7 +96,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=700&size=34&duration=1&pause=1000000&color=3B82F6&center=true&vCenter=true&width=450&lines=✨+Outside+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=700&size=28&duration=1&pause=1000000&color=3B82F6&center=true&vCenter=true&width=450&lines=✨+Outside+Code" />
 </h2>
 
 <p align="center">
