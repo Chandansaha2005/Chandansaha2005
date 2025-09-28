@@ -76,13 +76,13 @@
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandansaha2005&show_icons=true&theme=tokyonight" height="140" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandansaha2005&theme=tokyonight" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandansaha2005&layout=compact&theme=tokyonight" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chandansaha2005&show_icons=true&theme=tokyonight" height="130" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandansaha2005&theme=tokyonight" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandansaha2005&layout=compact&theme=tokyonight" height="130" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandansaha2005&theme=tokyo-night&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandansaha2005&theme=tokyo-night&hide_border=true" width="90%" />
 </p>
 
 <p align="center">
