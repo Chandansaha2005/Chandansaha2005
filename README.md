@@ -164,7 +164,7 @@
   </a>
 </p>
 
----
+--- 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=600&size=20&duration=1&pause=1000000&color=D4A574&center=true&vCenter=true&width=900&lines=Between+shadows+and+light%2C+I+find+frames." />
