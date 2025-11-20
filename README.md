@@ -64,9 +64,10 @@
 
 <table style="border: none; border-collapse: collapse;">
   <tr>
-    <td width="50%" valign="top" style="border: none;">
+    <!-- Programming Languages -->
+    <td width="33%" valign="top" style="border: none;">
       <h3 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=700&size=28&duration=1&pause=1000000&color=D4A574&center=true&vCenter=true&width=550&lines=💻+Programming+Languages" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=700&size=26&duration=1&pause=1000000&color=D4A574&center=true&vCenter=true&width=450&lines=💻+Programming+Languages" />
       </h3>
       <p align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C" />
@@ -76,12 +77,12 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
-        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" width="50" title="Tailwind css" />
+        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" width="50" title="Tailwind CSS" />
       </p>
     </td>
-    <td width="50%" valign="top" style="border: none;">
+    <td width="33%" valign="top" style="border: none;">
       <h3 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=700&size=28&duration=1&pause=1000000&color=D4A574&center=true&vCenter=true&width=500&lines=🛠️+Tools+%26+Platforms" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=700&size=26&duration=1&pause=1000000&color=D4A574&center=true&vCenter=true&width=420&lines=🛠️+Tools+%26+Platforms" />
       </h3>
       <p align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
@@ -91,6 +92,18 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="40" title="NetBeans" />
+      </p>
+    </td>
+    <td width="33%" valign="top" style="border: none;">
+      <h3 align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=700&size=26&duration=1&pause=1000000&color=D4A574&center=true&vCenter=true&width=500&lines=🎨+Creative+%26+Productivity+Tools" />
+      </h3>
+      <p align="center">
+        <img src="https://static.canva.com/web/images/67cc1aacd451a6b1165f796bedcd173b.svg" width="40" title="Canva" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="40" title="Notion" />
+        <img src="https://pipedream.com/s.v0/app_XaLh2x/logo/orig" width="40" title="Vercel" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Microsoft_Office_PowerPoint_%282019%E2%80%932025%29.svg/516px-Microsoft_Office_PowerPoint_%282019%E2%80%932025%29.svg.png" width="40" title="PowerPoint" />
+        <img src="https://play-lh.googleusercontent.com/ALv_YzwUQTXc17qvu2oy7JTl8Qn-zm22M4FoZKVv2Ru541nDa2EltKPSlv_KyQGacLdpHLotR9Z98bamyEd9rKc" width="40" title="Lightroom" />
       </p>
     </td>
   </tr>
