@@ -88,6 +88,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />
+        <img src="https://pipedream.com/s.v0/app_XaLh2x/logo/orig" width="40" title="Vercel" />
         <img src="https://svg.saasfly.io/library/flask-dark.svg" width="40" title="Flask" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas" />
@@ -101,7 +102,6 @@
       <p align="center">
         <img src="https://static.canva.com/web/images/67cc1aacd451a6b1165f796bedcd173b.svg" width="40" title="Canva" />
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="40" title="Notion" />
-        <img src="https://pipedream.com/s.v0/app_XaLh2x/logo/orig" width="40" title="Vercel" />
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Microsoft_Office_PowerPoint_%282019%E2%80%932025%29.svg/516px-Microsoft_Office_PowerPoint_%282019%E2%80%932025%29.svg.png" width="40" title="PowerPoint" />
         <img src="https://play-lh.googleusercontent.com/ALv_YzwUQTXc17qvu2oy7JTl8Qn-zm22M4FoZKVv2Ru541nDa2EltKPSlv_KyQGacLdpHLotR9Z98bamyEd9rKc" width="40" title="Lightroom" />
       </p>
