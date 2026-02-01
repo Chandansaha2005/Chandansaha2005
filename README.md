@@ -64,11 +64,11 @@ I also care deeply about **design and creativity**. I like building things that 
       <h3 align="center">🎨 Creative Tools</h3>
       <p align="center">
         <img src="https://static.canva.com/web/images/67cc1aacd451a6b1165f796bedcd173b.svg" width="40" title="Canva"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Adobe_Express_logo.svg/512px-Adobe_Express_logo.svg.png" width="40" title="Adobe Express"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/PicsArt_logo.svg/512px-PicsArt_logo.svg.png" width="40" title="PicsArt"/>
+    <img src="assets/adobe-express-logo.png" width="50" title="Adobe Express"/>
+    <img src="assets/picsart-logo.png" width="50" title="PicsArt"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="40" title="Notion"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019–present%29.svg/512px-Microsoft_Office_PowerPoint_%282019–present%29.svg.png" width="40" title="Microsoft PowerPoint"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Adobe_Photoshop_Lightroom_CC_logo.svg/512px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" width="40" title="Adobe Lightroom"/>
+    <img src="assets/Microsoft-powerpoint.png" width="40" title="Microsoft PowerPoint"/>
+    <img src="assets/Adobe_Photoshop_Lightroom.png" width="40" title="Adobe Lightroom"/>
         </p>
     </td>
   </tr>
