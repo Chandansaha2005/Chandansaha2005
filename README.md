@@ -31,13 +31,12 @@ I also care deeply about <b>design and creativity</b>. I like building things th
     </td>
 
     <td width="40%" align="center" valign="middle" style="border: none;">
-      <img src="assets/octocat-1759047737565.png" width="80%" />
-      <img src="assets/octocat-1770011659753.png" width="80%" />
+      <img src="assets/octocat-1770048475482.png" width="80%" />
+      <!-- <img src="assets/octocat-1770011659753.png" width="80%" /> -->
+      <img src="assets/octocat-1770048657280.png" width="80%" />
     </td>
   </tr>
 </table>
-
----
 
 <table style="border: none; border-collapse: collapse;">
   <tr>
@@ -82,26 +81,24 @@ I also care deeply about <b>design and creativity</b>. I like building things th
   </tr>
 </table>
 
----
-
 <h2 align="center">📊 GitHub at a Glance</h2>
 
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chandansaha2005&theme=codeSTACKr&hide_border=true" height="350" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandansaha2005&theme=xcode&hide_border=true" width="800" />
-</p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chandansaha2005&theme=codeSTACKr" height="260"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chandansaha2005&theme=codeSTACKr" height="260"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandansaha2005&theme=xcode&hide_border=true" width="700" />
+</p>
 
----
 
-<h2 align="center">🧠 Beyond the Code</h2>
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td width="60%" valign="top" style="border: none;">
+      <h2 align="center">🧠 Beyond the Code</h2>
 
 <p align="center">
   I build with logic, design with intent, and learn by breaking things.<br/>
@@ -113,8 +110,6 @@ I also care deeply about <b>design and creativity</b>. I like building things th
   🧩 Problem solver by habit, designer by instinct.
 </p>
 
----
-
 <h3 align="center">🌐 Let’s Connect</h3>
 <p align="center">
   <a href="https://www.instagram.com/c_h_a_n_d_a_n_0_1/"><img src="assets/instagram_2504918.png" width="45"/></a>
@@ -125,8 +120,14 @@ I also care deeply about <b>design and creativity</b>. I like building things th
   &nbsp;&nbsp;
   <a href="https://x.com/chandansahaaaa?s=09"><img src="assets/2504947.png" width="45"/></a>
 </p>
-
----
+    </td>
+    <td width="40%" align="center" valign="middle" style="border: none;">
+      <!-- <img src="assets/octocat-1770048475482.png" width="80%" /> -->
+      <img src="assets/octocat-1770011659753.png" width="80%" />
+      <!-- <img src="assets/octocat-1770048657280.png" width="80%" /> -->
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/cks_">
