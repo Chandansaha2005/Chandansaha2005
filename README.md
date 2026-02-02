@@ -79,19 +79,9 @@ I also care deeply about **design and creativity**. I like building things that 
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandansaha2005&show_icons=true&theme=codeSTACKr" height="120" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandansaha2005&theme=codeSTACKr" height="120" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandansaha2005&layout=compact&theme=codeSTACKr" height="120" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandansaha2005&theme=xcode&hide_border=true" width="90%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chandansaha2005&theme=onedark&no-frame=true&row=1&column=6&margin-w=10" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandansaha2005&theme=codeSTACKr" height="2000" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandansaha2005&theme=xcode&hide_border=true" width="5000" />
 </p>
 
 ---
@@ -118,8 +108,12 @@ I also care deeply about **design and creativity**. I like building things that 
 
 ---
 
+<!-- Support -->
+<h3 align="center">💰 Support Me</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=600&size=15&duration=1&pause=1000000&color=D4A574&center=true&vCenter=true&width=900&lines=Between+logic+and+creation%2C+I+find+myself.+—+CKS" />
+  <a href="https://www.buymeacoffee.com/cks_">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Buy Me A Coffee" />
+  </a>
 </p>
 
 ---
