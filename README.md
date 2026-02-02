@@ -25,6 +25,7 @@ I also care deeply about **design and creativity**. I like building things that 
     </td>
     <td width="40%" align="center" valign="middle" style="border: none;">
       <img src="assets/octocat-1759047737565.png" width="80%"/>
+      <img src="assets/octocat-1770011659753.png" width="80%"/>
     </td>
   </tr>
 </table>
