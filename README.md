@@ -70,6 +70,7 @@ I also care deeply about **design and creativity**. I like building things that 
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="40" title="Notion"/>
     <img src="assets/Microsoft-powerpoint.png" width="40" title="Microsoft PowerPoint"/>
     <img src="assets/Adobe_Photoshop_Lightroom.png" width="40" title="Adobe Lightroom"/>
+        <img src="https://images.sftcdn.net/images/t_app-icon-s/p/3ab9b4bc-bd4c-4ee3-b65e-fbab19e88adf/2239545102/capcut-Download-CapCut.jpg" width="40" title="Adobe Lightroom"/>
         </p>
     </td>
   </tr>
