@@ -87,8 +87,8 @@ I also care deeply about <b>design and creativity</b>. I like building things th
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chandansaha2005&theme=codeSTACKr&hide_border=true" height="350" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chandansaha2005&theme=codeSTACKr" height="260"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chandansaha2005&theme=codeSTACKr" height="260"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chandansaha2005&theme=codeSTACKr" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chandansaha2005&theme=codeSTACKr" height="150"/>
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandansaha2005&theme=xcode&hide_border=true" width="700" />
