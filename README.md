@@ -14,7 +14,7 @@
 
 I’m <b>Chandan Saha</b>, a Computer Science and Engineering student pursuing my B.Tech from <b>MCKV Institute of Engineering</b>.
 
-I enjoy solving problems, building software, and strengthening my fundamentals. A major focus of mine is <b>Data Structures and Algorithms</b>, with <b>200+ problems solved</b> across LeetCode and GeeksforGeeks.
+I enjoy solving problems, building software, and strengthening my fundamentals. A major focus of mine is <b>Data Structures and Algorithms</b>, with <b>250+ problems solved</b> across LeetCode and GeeksforGeeks.
 
 I actively participate in <b>hackathons and programming contests</b>, where I enjoy working under pressure, collaborating with teams, and turning ideas into practical solutions.
 
