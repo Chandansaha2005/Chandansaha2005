@@ -50,7 +50,7 @@ I also care deeply about <b>design and creativity</b>. I like building things th
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" width="45"/>
+        <img src="assets/tailwind.png" width="45"/>
       </p>
     </td>
     <td width="33%" valign="top" style="border: none;">
