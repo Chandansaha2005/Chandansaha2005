@@ -3,7 +3,7 @@
     <img src="assets/1759043036683.jpg" width="100%" alt="Chandan Saha Header"
       style="border-radius: 15px; box-shadow: inset 0 -50px 100px rgba(0, 0, 0, 0.4);" />
   </p>
-
+ 
   <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=800&size=36&duration=1200&pause=400&color=D4A574&center=true&vCenter=true&width=850&lines=01001000+01100101+01111001;H3y+th3r3+👋;Hey+there+👋;I'm+Ch4nd4n+S4h4;I'm+Chandan+Saha;C0d3r+%7C+Ph0t0gr4ph3r;Coder+%7C+Photographer+%7C+Designer;%3CERROR%3E+LOADING...;System+Online+✅" />
 </h1>
 
