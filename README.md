@@ -24,6 +24,7 @@ I also care deeply about <b>design and creativity</b>. I like building things th
 
 <h3>🏆 Achievements</h3>
 
+- 🏆 <b>Winner</b> – Agentic Premier League, Hackathon By GDG Cloud Kolkata  
 - 🥇 <b>First Runner-Up</b> – CodeFiesta, Programming Contest @ MCKV Institute of Engineering  
 - 🥈 <b>Second Runner-Up</b> – UDBHABON’26 Hackathon @ Jadavpur University  
 - 🥈 <b>Second Runner-Up</b> – Winter Solstice Hackathon by GDG on Campus @ Meghnad Saha Institute of Technology  
