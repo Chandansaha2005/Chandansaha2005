@@ -30,7 +30,8 @@ I also care deeply about <b>design and creativity</b>. I like building things th
 - 🥇 <b>First Runner-Up</b> – CodeFiesta, Programming Contest @ MCKV Institute of Engineering  
 - 🥈 <b>Second Runner-Up</b> – UDBHABON’26 Hackathon @ Jadavpur University  
 - 🥈 <b>Second Runner-Up</b> – Winter Solstice Hackathon by GDG on Campus @ Meghnad Saha Institute of Technology
-
+- 🥉 <b>Third Runner-Up</b> – Build With Gemma Hackathon by Machine Learning Kolkata
+- 🥉 <b>Third Runner-Up</b> – Tech sprint Hackathon by GDG on Campus MCKVIE @ MCKV Institute of Engineering 
     </td>
 
     <td width="40%" align="center" valign="middle" style="border: none;">
